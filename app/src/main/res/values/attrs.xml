@@ -11,9 +11,6 @@
         
     </declare-styleable>
 
-    <declare-styleable name="ImageBackgroundView">
 
-        <attr name="backgroundImage" format="reference"/>
-    </declare-styleable>
 
 </resources>
